@@ -16,6 +16,13 @@ url                      : https://mosalah022.github.io # the base hostname & pr
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
+
+header_pages:
+  - about.md
+  - publications.md
+  - talks.md
+
+minimal_mistakes_skin: "dark"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_inc]ludes/author-profile.html
