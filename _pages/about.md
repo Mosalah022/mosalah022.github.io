@@ -1,10 +1,8 @@
 ---
 permalink: /
-title: ""
+title: "Home"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 I am a Ph.D. researcher in [Computer Science at Virginia Commonwealth University (VCU)](https://egr.vcu.edu/departments/computer/), conducting research at the [**VCU MuSIC Lab**](https://music.lab.vcu.edu/). My academic journey includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.97/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://www.acu.edu.eg/) (GPA: 3.9/4, ranked top of my class).
 
