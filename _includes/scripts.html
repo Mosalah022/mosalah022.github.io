@@ -1,3 +1,28 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  const toggle = document.getElementById("theme-toggle");
+  const icon = document.getElementById("theme-icon");
+
+  // Load saved theme
+  if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.classList.add("dark-mode");
+    if (icon) icon.className = "fa-solid fa-moon";
+  }
+
+  if (toggle) {
+    toggle.addEventListener("click", () => {
+      document.documentElement.classList.toggle("dark-mode");
+
+      if (document.documentElement.classList.contains("dark-mode")) {
+        localStorage.setItem("theme", "dark");
+        if (icon) icon.className = "fa-solid fa-moon";
+      } else {
+        localStorage.setItem("theme", "light");
+        if (icon) icon.className = "fa-solid fa-sun";
+      }
+    });
+  }
+</script>
+
 {% include analytics.html %}
