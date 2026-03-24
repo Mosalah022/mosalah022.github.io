@@ -40,3 +40,43 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* ===== DARK MODE ===== */
+.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Main content */
+.dark-mode .page__content {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Sidebar */
+.dark-mode .sidebar {
+  background-color: #1a1a1a;
+}
+
+/* Navbar */
+.dark-mode .masthead {
+  background-color: #1f1f1f;
+}
+
+/* Links */
+.dark-mode a {
+  color: #4da6ff;
+}
+
+/* Headings */
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3 {
+  color: #ffffff;
+}
+
+/* Cards / blocks */
+.dark-mode .archive__item {
+  background-color: #1e1e1e;
+}
