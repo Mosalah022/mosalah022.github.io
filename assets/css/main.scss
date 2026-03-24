@@ -80,3 +80,18 @@
 .dark-mode .archive__item {
   background-color: #1e1e1e;
 }
+
+
+.archive__item-body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.archive__item-body p {
+  margin-bottom: 18px;
+}
+
+.archive__item-body a {
+  color: #4da6ff;
+  font-weight: 500;
+}
