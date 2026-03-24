@@ -8,4 +8,3 @@ paperurl: "https://ieeexplore.ieee.org/abstract/document/10044005"
 citation: 'Mohamed Kamel. “SkinFormer: Robust Vision Transformer for Automatic Skin Disease Identification.” JAC-ECC 2022.'
 ---
 
-Mohamed Kamel. “*SkinFormer: Robust Vision Transformer for Automatic Skin Disease Identification*.” JAC-ECC 2022. [paper](https://ieeexplore.ieee.org/abstract/document/10044005)

@@ -7,7 +7,6 @@ venue: "Computing in Cardiology (CinC) 2026 (Under Review)"
 citation: 'Mohamed Kamel. “Learning-Based ECG Denoising using Conditional Rectified Flow.” CinC 2026 (Under Review).'
 ---
 
-Mohamed Kamel. “*Learning-Based ECG Denoising using Conditional Rectified Flow*.” CinC 2026 (Under Review).
 
 <!-- [paper] -->
 <!-- [code] -->

@@ -7,7 +7,5 @@ venue: "IEEE GLOBECOM 2025"
 citation: 'Mohamed Kamel. “Attention-Driven Reinforcement Learning to Optimize Packet Retransmission in Semantic Communication.” IEEE GLOBECOM 2025.'
 ---
 
-Mohamed Kamel. “*Attention-Driven Reinforcement Learning to Optimize Packet Retransmission in Semantic Communication*.” IEEE GLOBECOM 2025.
-
 <!-- [paper] -->
 <!-- [code] -->
