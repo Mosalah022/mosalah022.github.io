@@ -13,7 +13,7 @@ Please do not hesitate to reach out to me via [LinkedIn](https://www.linkedin.co
 or reach out via email at: [kamelms@vcu.edu](mailto:kamelms@vcu.edu)
 <!-- or reach out via email at: **kamelms [at] vcu [dot] edu** -->
 
-[\[Curriculum vitae\]](files/Mohamed-Kamel-CV.pdf)
+[\[Curriculum vitae\]](files/Mohamed-Kamel-CV-new.pdf)
 
 My primary research Interests
 ----
