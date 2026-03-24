@@ -17,11 +17,7 @@
 
     <!-- TITLE -->
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}" target="_blank">{{ title }}</a>
-      {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
     </h2>
 
     <!-- TALKS -->
