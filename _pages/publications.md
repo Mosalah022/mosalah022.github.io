@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-(* Equal contribution; † Corresponding author)
+(* Equal contribution)
 
 {% include base_path %}
 
