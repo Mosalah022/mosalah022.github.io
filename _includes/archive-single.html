@@ -33,7 +33,7 @@
     <!-- PUBLICATIONS -->
     {% elsif post.collection == 'publications' %}
       <p>
-        {{ post.citation }}
+        {{ post.citation | replace: "Mohamed Kamel", "<strong>Mohamed Kamel</strong>" }}
 
         {% if post.paperurl %}
           [<a href="{{ post.paperurl }}">paper</a>]
