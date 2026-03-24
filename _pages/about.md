@@ -4,7 +4,9 @@ title: "Home"
 layout: single
 author_profile: true
 ---
-I am a Ph.D. researcher in [Computer Science at Virginia Commonwealth University (VCU)](https://egr.vcu.edu/departments/computer/), conducting research at the [**VCU MuSIC Lab**](https://music.lab.vcu.edu/). My academic journey includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.97/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://www.acu.edu.eg/) (GPA: 3.9/4, ranked top of my class).
+I am a Ph.D. student in [Computer Science at Virginia Commonwealth University (VCU)](https://egr.vcu.edu/departments/computer/), conducting research at the [**VCU MuSIC Lab**](https://music.lab.vcu.edu/). My research focuses on **AI for healthcare**, particularly on developing data-driven models for physiological signal analysis, multimodal sensing, and continuous health monitoring in real-world settings.
+
+My academic background includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.97/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://www.acu.edu.eg/) (GPA: 3.9/4, ranked top of my class).
 
 
 Please do not hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/mohamed-kamel-597684182/)  
@@ -13,17 +15,27 @@ or reach out via email at: [kamelms@vcu.edu](mailto:kamelms@vcu.edu)
 
 [\[Curriculum vitae\]](files/Mohamed-Kamel-CV-new.pdf)
 
-My primary research Interests
-----
-- **AI in Healthcare**, including medical computer vision, semantic segmentation, disease classification, and generalization across clinical imaging modalities  
-- **Semantic Communication**, involving task-oriented information representation and learning-driven transmission protocols that prioritize meaning over raw data, with applications in next-generation wireless systems
-- **Generative AI**, including diffusion-based and transformer-based models for structured data generation, signal reconstruction, and data-efficient representation learning across vision and communication domains
-- **Large Language Models (LLMs)**, with focus on robustness, alignment, and their integration into real-world systems for decision support, semantic communication, and adaptive reasoning across safety-critical domains
-- **Computer Vision**, covering structured visual understanding, scene perception, and dense prediction for real-world and multi-modal environments
-- **Robust Machine Learning**, with emphasis on adversarial safety, generalization under distribution shifts, and data-efficient learning across vision and language domains
+My primary research interests
+------
+- **AI for Healthcare**, focusing on physiological signal modeling, medical data analysis, and building reliable systems for continuous health monitoring in real-world environments  
+
+- **Physiological Signal Processing & Multimodal Sensing**, including ECG reconstruction, wearable data modeling, and integration of heterogeneous sensing modalities for health applications  
+
+- **Generative Models for Structured Signals**, including diffusion-based and transformer-based approaches for signal reconstruction, denoising, and data-efficient representation learning  
+
+- **Large Language Models (LLMs)**, with focus on robustness and their integration into real-world systems for reasoning, decision support, and safe deployment in healthcare and data-centric applications  
+
+- **Robust and Reliable Machine Learning**, with emphasis on generalization under real-world conditions, noise, and distribution shifts in healthcare settings  
+
+- **Semantic and Efficient AI Systems**, including task-aware representations and resource-efficient learning for real-time and edge-based applications
 
 News
 ======
+- **Mar 2026:** Delivered an invited talk at VCU — *“From Wearable Signals to Clinical ECG: Toward Continuous Cardiac Monitoring”*  
+- **Mar 2026:** Received **2nd Best Poster Award** at DMV Security Workshop for *“Semantic Deception for Protecting Textual Data from Unauthorized Harvesting”*  
+- **Feb 2026:** Multiple posters accepted at research venues including Harvard ACH Symposium, CCI Research Symposium, and VCU Engineering Research Showcase  
+- **Jan 2026:** Paper accepted at **International Conference on Smart Mobility (SM 2026)** — *“URGE: Urgency-Aware Energy-Efficient UAV Mobility via Hybrid Deep Reinforcement Learning”*  
+- **2026:** Serving as a reviewer for *Assessment (SAGE)* and *International Conference on Smart Mobility (SM)*  
 - **Jul 2025:** Paper accepted at IEEE GLOBECOM 2025 — *"Attention Driven Reinforcement Learning to Optimize Packet Retransmission in Semantic Communication"*  
 - **Jun 2025:** Proposal accepted — invited to submit full paper to the special issue *"Artificial Intelligence in Psychological Assessment"* (Assessment – SAGE), *"AI-Enabled Remote Loneliness Detection System Using Speech and Behavioral Data from Smart Speakers and IoT Sensors"*  
 - **May 2025:** Started Software Engineering Intern at VCU + Bank of America – Special Olympics project  
@@ -71,6 +83,7 @@ Work Experience
   - Contributing to the NIH-funded **HomePAL** project on AI-enabled ambient health monitoring  
   - Responsible for sensor setup, data acquisition scripts, signal analysis, and behavior anomaly detection using AI  
   - [Project link](https://music.lab.vcu.edu/projects/homepal/) | [NIH details](https://reporter.nih.gov/search/t41fxlPy70md_VuRIKvw1g/project-details/10725229)
+  - Contributing to the SARE-funded food waste tracking and diversion project SARE FLW24-004, [Project link](https://music.lab.vcu.edu/projects/foodtrack/).
 
 
 - **Software Engineer Intern (Part-time)**  
