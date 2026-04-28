@@ -1,10 +1,10 @@
 ---
-title: "Learning-Based ECG Denoising using Conditional Rectified Flow"
+title: "Morphology Aware ECG Denoising with Conditional Rectified Flow"
 collection: publications
 permalink: /publication/ecg-denoising
 date: 2026-01-10
-venue: "Computing in Cardiology (CinC) 2026 (Under Review)"
-citation: 'Mohamed Kamel. “Learning-Based ECG Denoising using Conditional Rectified Flow.” CinC 2026 (Under Review).'
+venue: "International Conference on Machine Learning and Applications (ICMLA) 2026 (Under Review)"
+citation: 'Mohamed Kamel. “Morphology Aware ECG Denoising with Conditional Rectified Flow.” (ICMLA) 2026 (Under Review).'
 ---
 
 
