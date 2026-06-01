@@ -5,7 +5,7 @@ permalink: /publication/prosed-redacted
 excerpt: "Research on source-side semantic decoys for protecting text from unauthorized data harvesting."
 date: 2026-01-15
 venue: "TMLR (Under Review)"
-citation: 'Mohamed Kamel*, Nourchene Bargaoui*, Tamer Nadeem. “[Title redacted for double-blind review].” TMLR (Under Review).'
+citation: 'Mohamed Kamel*, Nourchene Bargaoui, Tamer Nadeem. “[Title redacted for double-blind review].” TMLR (Under Review).'
 ---
 
 
