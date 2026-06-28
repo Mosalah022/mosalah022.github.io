@@ -31,6 +31,10 @@ My primary research interests
 
 News
 ======
+- **Jul 2026:** Submitted manuscript to **Knowledge-Based Systems (KBS)** — *“ProSeD: Source-Side Semantic Decoys Against Unauthorized Data Harvesting”*  
+- **Jun 2026:** Submitted manuscript to **IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2026)**  
+- **Jun 2026:** Served as a reviewer for the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)**, completing reviews for three submitted papers  
+- **May 2026:** Submitted manuscripts to **NeurIPS 2026** and the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)**  
 - **Mar 2026:** Delivered an invited talk at VCU — *“From Wearable Signals to Clinical ECG: Toward Continuous Cardiac Monitoring”*  
 - **Mar 2026:** Received **2nd Best Poster Award** at DMV Security Workshop for *“Semantic Deception for Protecting Textual Data from Unauthorized Harvesting”*  
 - **Feb 2026:** Multiple posters accepted at research venues including Harvard ACH Symposium, CCI Research Symposium, and VCU Engineering Research Showcase  
