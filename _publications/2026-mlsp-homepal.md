@@ -5,7 +5,7 @@ permalink: /publication/mlsp-homepal-redacted
 excerpt: "A multimodal smart-home signal-processing pipeline for inferring activity episodes and behavioral features for older-adult behavioral health monitoring."
 date: 2026-01-04
 venue: "IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2026 (Under Review)"
-citation: 'Mohamed Kamel*, Tamer Nadeem, Jane Chung. “[Title redacted for double-blind review].” IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Under Review, 2026.'
+citation: 'Mohamed Kamel, Tamer Nadeem, Jane Chung. “[Title redacted for double-blind review].” IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Under Review, 2026.'
 ---
 
 
