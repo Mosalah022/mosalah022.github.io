@@ -2,7 +2,7 @@
 title: "Development of an AI-Enabled Remote Loneliness Detection System Using Speech and Behavioral Data"
 collection: publications
 permalink: /publication/loneliness
-date: 2026-01-03
+date: 2026-06-29
 venue: "Assessment (SAGE Journals)"
 citation: 'Mohamed Kamel, Tamer Nadeem, Juyoung Park, Jane Chung. “Development of an AI-Enabled Remote Loneliness Detection System Using Speech and Behavioral Data.” Assessment.'
 ---
