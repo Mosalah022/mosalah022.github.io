@@ -42,7 +42,6 @@ News
 - **Jan 2026:** Paper accepted at **International Conference on Smart Mobility (SM 2026)** — *“URGE: Urgency-Aware Energy-Efficient UAV Mobility via Hybrid Deep Reinforcement Learning”*  
 - **2026:** Serving as a reviewer for *Assessment (SAGE)* and *International Conference on Smart Mobility (SM)*  
 - **Jul 2025:** Paper accepted at IEEE GLOBECOM 2025 — *"Attention Driven Reinforcement Learning to Optimize Packet Retransmission in Semantic Communication"*  
-- **Jun 2025:** Proposal accepted — invited to submit full paper to the special issue *"Artificial Intelligence in Psychological Assessment"* (Assessment – SAGE), *"AI-Enabled Remote Loneliness Detection System Using Speech and Behavioral Data from Smart Speakers and IoT Sensors"*  
 - **May 2025:** Started Software Engineering Intern at VCU + Bank of America – Special Olympics project  
 - **2025 (ongoing):** Contributing to *HomePAL*, an NIH-funded research project on AI-enabled ambient health monitoring ([project](https://music.lab.vcu.edu/projects/homepal/) | [NIH](https://reporter.nih.gov/search/t41fxlPy70md_VuRIKvw1g/project-details/10725229))  
 - **Dec 2022:** Published *SkinFormer: Robust Vision Transformer for Automatic Skin Disease Identification* in JAC-ECC 2022 ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10044005))
