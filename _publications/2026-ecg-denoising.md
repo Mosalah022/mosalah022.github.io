@@ -1,23 +1,9 @@
 ---
-title: "[Title redacted for double-blind review]"
+title: "CondFlow-ECG: Conditional Rectified Flow for Morphology-Aware ECG Denoising"
 collection: publications
-permalink: /publication/ecg-denoising-redacted
-excerpt: "Research on morphology-aware ECG denoising using generative models."
+permalink: /publication/condflow-ecg
+excerpt: "A conditional rectified flow framework for morphology-aware ECG denoising."
 date: 2026-06-30
-venue: "International Conference on Machine Learning and Applications (ICMLA) 2026 (Under Review)"
-citation: 'Mohamed Kamel. “[Title redacted for double-blind review].” ICMLA 2026 (Under Review).'
+venue: "IEEE International Conference on Machine Learning and Applications (ICMLA) 2026"
+citation: 'Mohamed Kamel, Sahar Selim, Walaa Medhat, and Tamer Nadeem. “CondFlow-ECG: Conditional Rectified Flow for Morphology-Aware ECG Denoising.” IEEE International Conference on Machine Learning and Applications (ICMLA), 2026.'
 ---
-
-
-<!-- ---
-title: "Morphology Aware ECG Denoising with Conditional Rectified Flow"
-collection: publications
-permalink: /publication/ecg-denoising
-date: 2026-01-10
-venue: "International Conference on Machine Learning and Applications (ICMLA) 2026 (Under Review)"
-citation: 'Mohamed Kamel. “Morphology Aware ECG Denoising with Conditional Rectified Flow.” (ICMLA) 2026 (Under Review).'
---- -->
-
-
-<!-- [paper] -->
-<!-- [code] -->
