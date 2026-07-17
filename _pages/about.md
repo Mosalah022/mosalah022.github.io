@@ -32,7 +32,7 @@ My primary research interests
 News
 ======
 - **Jul 2026:** Paper accepted at the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)** - *"CondFlow-ECG: Conditional Rectified Flow for Morphology-Aware ECG Denoising"*
-- **Jul 2026:** First-author paper accepted for publication in **Assessment (SAGE)** - *"Development of an AI-Enabled Remote Loneliness Assessment System for Older Adults Using Behavioral and Speech Data from IoT Sensors and Smart Speakers"*
+- **JUN 2026:** First-author paper accepted for publication in **Assessment (SAGE)** - *"Development of an AI-Enabled Remote Loneliness Assessment System for Older Adults Using Behavioral and Speech Data from IoT Sensors and Smart Speakers"*
 - **Jul 2026:** Submitted manuscript to **Knowledge-Based Systems (KBS)** - *"ProSeD: Source-Side Semantic Decoys Against Unauthorized Data Harvesting"*
 - **Jun 2026:** Submitted manuscript to the **IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2026)**
 - **Jun 2026:** Served as a reviewer for the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)**, completing reviews for three submitted papers
