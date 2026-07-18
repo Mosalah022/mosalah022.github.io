@@ -31,9 +31,10 @@ My primary research interests
 
 News
 ======
+<!-- - **Aug 2026:** Served as a reviewer for IET Communications**,  -->
 - **Jul 2026:** Paper accepted at the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)** - *"CondFlow-ECG: Conditional Rectified Flow for Morphology-Aware ECG Denoising"*
-- **Jun 2026:** Paper accepted for publication in **Assessment (SAGE)** - *"Development of an AI-Enabled Remote Loneliness Assessment System for Older Adults Using Behavioral and Speech Data from IoT Sensors and Smart Speakers"*
 - **Jul 2026:** Submitted manuscript to **Knowledge-Based Systems (KBS)** - *"ProSeD: Source-Side Semantic Decoys Against Unauthorized Data Harvesting"*
+- **Jun 2026:** Paper accepted for publication in **Assessment (SAGE)** - *"Development of an AI-Enabled Remote Loneliness Assessment System for Older Adults Using Behavioral and Speech Data from IoT Sensors and Smart Speakers"*
 - **Jun 2026:** Submitted manuscript to the **IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2026)**
 - **Jun 2026:** Served as a reviewer for the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)**, completing reviews for three submitted papers
 - **May 2026:** Submitted manuscripts to **NeurIPS 2026** and the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)**
@@ -41,7 +42,7 @@ News
 - **Mar 2026:** Received the **2nd Best Poster Award** at the DMV Security Workshop for *"Semantic Deception for Protecting Textual Data from Unauthorized Harvesting"*
 - **Feb 2026:** Multiple posters accepted at research venues, including the Harvard ACH Symposium, CCI Research Symposium, and VCU Engineering Research Showcase
 - **Jan 2026:** Paper accepted at the **International Conference on Smart Mobility (SM 2026)** - *"URGE: Urgency-Aware Energy-Efficient UAV Mobility via Hybrid Deep Reinforcement Learning"*
-- **2026:** Serving as a reviewer for **Assessment (SAGE)** and the **International Conference on Smart Mobility (SM)**
+- **Jan 2026:** Serving as a reviewer for **Assessment (SAGE)** and the **International Conference on Smart Mobility (SM)**
 - **Jul 2025:** Paper accepted at IEEE GLOBECOM 2025 — *"Attention Driven Reinforcement Learning to Optimize Packet Retransmission in Semantic Communication"*  
 - **May 2025:** Started Software Engineering Intern at VCU + Bank of America – Special Olympics project  
 - **2025 (ongoing):** Contributing to *HomePAL*, an NIH-funded research project on AI-enabled ambient health monitoring ([project](https://music.lab.vcu.edu/projects/homepal/) | [NIH](https://reporter.nih.gov/search/t41fxlPy70md_VuRIKvw1g/project-details/10725229))  
