@@ -6,7 +6,7 @@ author_profile: true
 ---
 I am a Ph.D. student in [Computer Science at Virginia Commonwealth University (VCU)](https://egr.vcu.edu/departments/computer/), conducting research at the [**VCU MuSIC Lab**](https://music.lab.vcu.edu/). My research focuses on **AI for healthcare**, particularly on developing data-driven models for physiological signal analysis, multimodal sensing, and continuous health monitoring in real-world settings.
 
-My academic background includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.97/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://www.acu.edu.eg/) (GPA: 3.9/4, ranked top of my class).
+My academic background includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.97/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://acu.edu.eg/en/) (GPA: 3.9/4, ranked top of my class).
 
 
 Please do not hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/mohamed-kamel-597684182/)  
