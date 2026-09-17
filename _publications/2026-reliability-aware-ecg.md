@@ -1,5 +1,5 @@
 ---
-title: "Reliability-Aware Conditional Flow Matching for ECG Signal Restoration"
+title: "TrustFlow-ECG: Reliability-Aware ECG Restoration with Calibrated Risk Estimation"
 collection: publications
 permalink: /publication/reliability-aware-ecg
 excerpt: "A reliability-aware conditional flow matching framework for ECG signal restoration."

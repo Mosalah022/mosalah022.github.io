@@ -1,5 +1,5 @@
 ---
-title: "FlowSep-RF: Rectified Flow Matching for Single-Channel RF Signal Separation"
+title: "FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation"
 collection: publications
 permalink: /publication/flowsep-rf
 excerpt: "A rectified flow matching framework for single-channel RF signal separation."
