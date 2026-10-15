@@ -31,7 +31,13 @@ My primary research interests
 
 News
 ======
-<!-- - **Aug 2026:** Served as a reviewer for IET Communications**,  -->
+- **Sep 2026:** Submitted two papers to the **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2027)**:
+  - *"TrustFlow-ECG: Reliability-Aware ECG Restoration with Calibrated Risk Estimation"*
+  - *"FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation"*
+- **Sep 2026:** Submitted two papers to the **IEEE International Conference on Communications (ICC 2027)**:
+  - *"SemTCP: Semantic-Aware Scheduling and Selective Recovery for Timely Task-Oriented Communication"*
+  - *"Two-Stage User Activity Detection and Localization for Grant-Free Random Access in Cell-Free Massive MIMO"*
+- **Aug 2026:** Served as a reviewer for IET Communications**, 
 - **Jul 2026:** Paper accepted at the **IEEE International Conference on Machine Learning and Applications (ICMLA 2026)** - *"CondFlow-ECG: Conditional Rectified Flow for Morphology-Aware ECG Denoising"*
 - **Jul 2026:** Submitted manuscript to **Knowledge-Based Systems (KBS)** - *"ProSeD: Source-Side Semantic Decoys Against Unauthorized Data Harvesting"*
 - **Jun 2026:** Paper accepted for publication in **Assessment (SAGE)** - *"Development of an AI-Enabled Remote Loneliness Assessment System for Older Adults Using Behavioral and Speech Data from IoT Sensors and Smart Speakers"*
