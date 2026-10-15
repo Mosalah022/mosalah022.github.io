@@ -92,10 +92,16 @@ Work Experience
 - **Research Assistant**  
   *Virginia Commonwealth University (VCU)*  
   **Aug 2025 – Present | United States**  
-  - Contributing to the NIH-funded **HomePAL** project on AI-enabled ambient health monitoring  
-  - Responsible for sensor setup, data acquisition scripts, signal analysis, and behavior anomaly detection using AI  
-  - [Project link](https://music.lab.vcu.edu/projects/homepal/) | [NIH details](https://reporter.nih.gov/search/t41fxlPy70md_VuRIKvw1g/project-details/10725229)
-  - Contributing to the SARE-funded food waste tracking and diversion project SARE FLW24-004, [Project link](https://music.lab.vcu.edu/projects/foodtrack/).
+  - **HomePAL:** Contributing to the NIH-funded AI-enabled health monitoring project (**NIH R01AG072611**).
+    - Working on sensor setup, data collection scripts, signal analysis, and AI-based behavioral anomaly detection.
+    - [Project Link](https://music.lab.vcu.edu/projects/homepal/) | [NIH Details](https://reporter.nih.gov/search/t41fxlPy70md_VuRIKvw1g/project-details/10725229)
+  - **ECG-Based ML for EP Guidance:** Working on an ECG-based machine learning project for electrophysiology procedures, focusing on technical implementation and model development.
+    - Developing automated ECG measurement methods for pacemaker and conduction system pacing analysis, including left ventricular activation time, QRS duration, and R-wave peak time.
+  - **HRV Biofeedback:** Contributing to the development of a wearable-sensor system for real-time ECG, HRV, and respiration monitoring and biofeedback during stationary cycling.
+    - Integrating ECG, respiration, and wrist-based PPG/IMU sensors for real-time data collection and analysis.
+  - **FoodTrack:** Contributing to the SARE-funded food waste tracking and diversion project (**SARE FLW24-004**).
+    - [Project Link](https://music.lab.vcu.edu/projects/foodtrack/)
+
 
 
 - **Software Engineer Intern (Part-time)**  
