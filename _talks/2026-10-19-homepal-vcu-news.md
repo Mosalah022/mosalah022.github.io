@@ -7,3 +7,4 @@ venue: "VCU News"
 date: 2026-10-19
 link: "https://news.vcu.edu/article/vcu-developed-home-sensor-system-could-spot-loneliness-in-older-adults"
 ---
+  
