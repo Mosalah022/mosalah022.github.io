@@ -1,4 +1,3 @@
-
 ---
 title: "VCU-developed home sensor system could spot loneliness in older adults"
 collection: talks
