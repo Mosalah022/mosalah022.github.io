@@ -6,5 +6,5 @@ excerpt: "A reliability-aware conditional flow matching framework for ECG signal
 date: 2026-07-27
 venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (Under Review)"
 paperurl: "https://arxiv.org/abs/2611.29084"
-citation: 'Mohamed Kamel, Tamer Nadeem. “Reliability-Aware Conditional Flow Matching for ECG Signal Restoration.” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Under Review, 2027.'
+citation: 'Mohamed Kamel, Tamer Nadeem. “TrustFlow-ECG: Reliability-Aware ECG Restoration with Calibrated Risk Estimation” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Under Review, 2027.'
 ---
